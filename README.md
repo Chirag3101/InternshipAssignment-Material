@@ -2,7 +2,7 @@
 
 ## Task: To develop a ReactJs based website based on the Figma UI wireframes provided.
 
-Deployment Link : 
+Deployment Link : https://vermillion-zuccutto-796214.netlify.app
 
 # Technologies used:
 
@@ -10,7 +10,7 @@ Deployment Link :
 
 # Screenshot:
 
-![Untitled](Internship%20Assignment%20bd5230b78bab48309f5003411d055084/Untitled.png)
+
 
 Made By:
 
